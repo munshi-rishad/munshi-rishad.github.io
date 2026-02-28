@@ -14,6 +14,6 @@ I’ve created a little pocket card using HTML, CSS, and JavaScript! This single
 1. Open the card in your browser.
 2. Click on any social media icon to visit or message.
 3. View resume directly from the card.
-
 Feel free to explore and contact me anytime!
-![Preview](Screenshot 2026-02-28 011638.png)
+
+![Preview](Screenshot.png)
